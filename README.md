@@ -1,1 +1,1 @@
-# Amharic -OCR
+# Geez -OCR
